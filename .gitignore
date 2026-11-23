@@ -1,0 +1,8 @@
+# Contain teammates' names and ASU IDs: kept out of the public repo
+report.pdf
+report_src/report.html
+*.zip
+# Build output and OS junk
+build/
+__pycache__/
+.DS_Store
